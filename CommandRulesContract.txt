@@ -35,8 +35,8 @@
 <tr><th bgcolor="DarkSlateGray"><font color="white" size="1">
 <table width="100%"><tr>
 <td valign="middle" width="75%">
-<font size="3"><b>Captain Saint</b></font><br>
-NTSS "Elysium" | Sector EROS, Galaxy 19<br>
+<font size="3"><b>Captain NAME HERE</b></font><br>
+NTSS "STATION NAME HERE" | Sector EROS, Galaxy 19<br>
 Coords: 4471-N, 8832-E, Depth 7<br>
 Fleet: 9th Research Expeditionary Fleet<br>
 Jurisdiction: NT Science & Research Authority
