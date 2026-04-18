@@ -1,0 +1,55 @@
+<center><code><font color="red" size="4"><b>⚠ CLASSIFIED — NOT FOR PUBLIC VIEWING ⚠</b></font></code></center>
+
+<table width="100%" bgcolor="DarkSlateGray">
+<tr><th><font color="white" size="10"><center>◥N◣</center></font></th></tr>
+<tr><th><font color="white" size="4"><center>Nanotrasen Research & Development Division</center></font></th></tr>
+<tr><th bgcolor="#000080"><font color="white" size="5"><center>Captain's Orders<br><font size="3">Command Rules and Directives</font></center></font></th></tr>
+
+<tr><th bgcolor="white"><font color="#000080" size="3"><center><p><b>Staff Accountability</b></center></font></th></tr>
+<tr><th bgcolor="white"><font color="black" size="2"><center><p>Security, Engineering, and Medical are first aid responders to unique situations Service, Research, and Cargo cannot solve. All such staff leaving duties MUST clock out and be considered "on standby" for emergent needs.</center></font></th></tr>
+
+<tr><th bgcolor="#000080" height="4"><font color="white" size="1"><center>—</center></font></th></tr>
+
+<tr><th bgcolor="white"><font color="#000080" size="3"><center><p><b>No Clocking Out for Extras</b></center></font></th></tr>
+<tr><th bgcolor="white"><font color="black" size="2"><center><p>All Heads of Staff are liable for not clocking out for extra activities exceeding 20 minutes or rendering them unable to respond. <b>Under no circumstances will you disregard your duties while clocked in.</b> You <b>must clock out</b> for other activities or face removal.</center></font></th></tr>
+
+<tr><th bgcolor="#000080" height="4"><font color="white" size="1"><center>—</center></font></th></tr>
+
+<tr><th bgcolor="white"><font color="#000080" size="3"><center><p><b>Liability for Staff Conduct</b></center></font></th></tr>
+<tr><th bgcolor="white"><font color="black" size="2"><center><p>Heads are directly responsible for their staff's <b>professionalism and competence</b>. If any member acts outside SOP, neglects duties, or performs incompetently, you will be held accountable alongside them.<br><br><i>Note: This clause does not extend to Space Law violations or criminal conduct. Such matters fall exclusively under Security jurisdiction and are handled separately. You are not liable for the criminal actions of your staff, only their professional conduct and departmental performance.</i></center></font></th></tr>
+
+<tr><th bgcolor="#000080" height="4"><font color="white" size="1"><center>—</center></font></th></tr>
+
+<tr><th bgcolor="white"><font color="#000080" size="2"><center><p><b>Definitions</b></center></font></th></tr>
+<tr><th bgcolor="white"><font color="black" size="2"><center><p>
+<b>On Standby</b> — Clocked in, active, reachable, and able to respond immediately.<br><br>
+<b>On Break</b> — Away no more than 20 minutes. Still clocked in. Emergency response still required.<br><br>
+<b>Off Duty</b> — Clocked out. No official capacity without Captain authorization.
+</center></font></th></tr>
+
+<tr><th bgcolor="white"><center><p><table style="border:2px solid #cccccc; width:80%; height:60px;" bgcolor="white"><tr>
+<td align="center" width="50%" style="border-right:1px solid #cccccc;"><font color="#cccccc" size="1"><i>Captain's Stamp</i></font></td>
+<td align="center" width="50%"><font color="#cccccc" size="1"><i>Head of Staff Stamp</i></font></td>
+</tr></table></center></th></tr>
+
+<tr><th bgcolor="DarkSlateGray"><font color="white" size="1">
+<table width="100%"><tr>
+<td valign="middle" width="75%">
+<font size="3"><b>Captain Saint</b></font><br>
+NTSS "Elysium" | Sector EROS, Galaxy 19<br>
+Coords: 4471-N, 8832-E, Depth 7<br>
+Fleet: 9th Research Expeditionary Fleet<br>
+Jurisdiction: NT Science & Research Authority
+</td>
+<td align="center" valign="middle" width="25%">
+<table bgcolor="DarkSlateGray" style="border:2px dashed gray; width:55px; height:55px;"><tr><th>&nbsp;</th></tr></table>
+</td>
+</tr></table>
+</font></th></tr>
+
+<tr><th bgcolor="white"><font color="#aaaaaa" size="1"><center><p>
+<i>This document is for Command use only. Keep it secured in your office at all times. Do not discuss its contents in public or around non-Command personnel. You MUST stamp this document to confirm receipt and compliance. <b>Present the stamped form to the Captain upon completion.</b> Failure to return a stamped copy will be treated as non-compliance and logged accordingly.</i>
+</center></font></th></tr>
+</table>
+
+<center><code><font color="red" size="4"><b>⚠ CLASSIFIED — NOT FOR PUBLIC VIEWING ⚠</b></font></code></center>
