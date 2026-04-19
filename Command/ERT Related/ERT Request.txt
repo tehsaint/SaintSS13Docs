@@ -1,6 +1,6 @@
 <center><code><font color="darkred" size="4"><b>⚠ EMERGENCY REQUEST TRANSMISSION ⚠</b></font></code></center>
 
-<table width="100%" bgcolor="DarkSlateGray">
+<table width="100%" bgcolor="#1b3a6b">
 <tr><th><font color="white" size="10"><center>◥N◣</center></font></th></tr>
 <tr><th><font color="white" size="4"><center>Nanotrasen Station Command Division</center></font></th></tr>
 <tr><th bgcolor="DarkRed"><font color="white" size="5"><center>ERT Request Form<br><font size="3">Central Command Transmission</font></center></font></th></tr>
