@@ -20,13 +20,13 @@
 <tr><td bgcolor="white"><table width="100%">
 <tr><td width="10%"><font size="2">&nbsp;&nbsp;[ ]</font></td><td><font size="2"><b>CODE GREEN</b> — All clear. Station stable, no active threat.</font></td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><font size="2">&nbsp;&nbsp;[ ]</font></td><td><font size="2"><b>CODE AMBER</b> — Elevated threat. Standard ERT deployment with full equipment.</font></td></tr>
+<tr><td><font size="2">&nbsp;&nbsp;[__]</font></td><td><font size="2"><b>CODE AMBER</b> — Elevated threat. Standard ERT deployment with full equipment.</font></td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><font size="2">&nbsp;&nbsp;[ ]</font></td><td><font size="2"><b>CODE RED</b> — Confirmed hostile threat. Elite ERT deployment, extreme danger.</font></td></tr>
+<tr><td><font size="2">&nbsp;&nbsp;[__]</font></td><td><font size="2"><b>CODE RED</b> — Confirmed hostile threat. Elite ERT deployment, extreme danger.</font></td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><font size="2">&nbsp;&nbsp;[ ]</font></td><td><font size="2"><b>ENGINEERING ERT</b> — Catastrophic structural damage, hull breach, or power failure.</font></td></tr>
+<tr><td><font size="2">&nbsp;&nbsp;[__]</font></td><td><font size="2"><b>ENGINEERING ERT</b> — Catastrophic structural damage, hull breach, or power failure.</font></td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><font size="2">&nbsp;&nbsp;[ ]</font></td><td><font size="2"><b>CENTRAL ADVISORY</b> — Deferring to Central Command's discretion on response type.</font></td></tr>
+<tr><td><font size="2">&nbsp;&nbsp;[__]</font></td><td><font size="2"><b>CENTRAL ADVISORY</b> — Deferring to Central Command's discretion on response type.</font></td></tr>
 </table></td></tr>
 
 <tr><th bgcolor="DarkRed" height="4"><font color="white" size="1"><center>—</center></font></th></tr>
