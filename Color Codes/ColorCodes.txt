@@ -1,4 +1,8 @@
-#1b3a6b NT Navy Blue
-#D00000 Bright Sec Red
-#761010 Deep Sec Red
-#f5ff38 GOLDSTAR Yellow
+In order to keep a consistent color palette for specific documents, just put the new colors you add here.
+
+
+#1b3a6b NT Navy Blue - NT Header.
+#D00000 Bright Sec Red - Sec highlight
+#761010 Deep Sec Red - Sec main
+#450d0d ERT Red - ERT Request red, usually for dangerous documents and the "CLASSIFIED" header
+#f5ff38 GOLDSTAR Yellow - GOLDSTAR document yellow

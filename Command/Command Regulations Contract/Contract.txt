@@ -1,4 +1,4 @@
-<center><code><font color="red" size="4"><b>⚠ CLASSIFIED — NOT FOR PUBLIC VIEWING ⚠</b></font></code></center>
+<center><code><font color="#450d0d" size="4"><b>⚠ CLASSIFIED — NOT FOR PUBLIC VIEWING ⚠</b></font></code></center>
 
 <table width="100%" bgcolor="#1b3a6b">
 <tr><th><font color="white" size="10"><center>◥N◣</center></font></th></tr>
@@ -52,4 +52,4 @@ Jurisdiction: NT Science & Research Authority
 </center></font></th></tr>
 </table>
 
-<center><code><font color="red" size="4"><b>⚠ CLASSIFIED — NOT FOR PUBLIC VIEWING ⚠</b></font></code></center>
+<center><code><font color="#450d0d" size="4"><b>⚠ CLASSIFIED — NOT FOR PUBLIC VIEWING ⚠</b></font></code></center>
