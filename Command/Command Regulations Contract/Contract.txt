@@ -48,7 +48,8 @@ Jurisdiction: NT Science & Research Authority
 </font></th></tr>
 
 <tr><th bgcolor="#e8e8e8"><font color="#333333" size="2"><center><p>
-<i>This document is for Command use only. Do not discuss its contents in public or around non-Command personnel. You MUST stamp this document to confirm receipt and compliance. <b>Return this form to the Captain's Office to receive your copy, and keep your copy secured in your office at all times.</b></i>
+<i>This document is to be stamped and presented to the Captain in person upon completion.<br>
+Failure to do so may lead to termination on a case-by-case basis.
 </center></font></th></tr>
 </table>
 
