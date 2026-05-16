@@ -1,5 +1,7 @@
 In order to keep a consistent color palette for specific documents, just put the new colors you add here.
 
+General theme: These documents are table cell-based documents for some consistency.
+
 
 #1b3a6b NT Navy Blue - NT Header.
 #D00000 Bright Sec Red - Sec highlight
